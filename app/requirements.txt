@@ -1,0 +1,7 @@
+streamlit
+catboost
+xgboost
+scikit-optimize
+numpy
+pandas
+matplotlib
